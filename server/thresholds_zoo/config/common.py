@@ -24,6 +24,7 @@ class Common(Configuration):
 
         # Your apps
         'thresholds_zoo.users',
+        'thresholds_zoo.evaluations',
 
     )
 
