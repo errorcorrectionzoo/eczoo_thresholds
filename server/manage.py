@@ -5,7 +5,7 @@ import sys
 
 
 def main():
-    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "thresholds_zoo.config")
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "qec_leaderboard.config")
     os.environ.setdefault("DJANGO_CONFIGURATION", "Local")
 
     try:
